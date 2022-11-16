@@ -9,6 +9,9 @@
 
 ## Our Framework 
 
+<img src="Figure 1.png" alt="Time series of station and global annual temperature anomalies" width="300" style="border: 1px solid darkgrey">
+
+
 ## Implementing our Framework – India and Canada’s Air Pollution Policy 
 
 ## Reference List
