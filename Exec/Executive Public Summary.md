@@ -1,5 +1,5 @@
 # A Novel Method to Evaluate Climate Policy
-## PHICCE: a framework assessing SDG 13 progress in the context of public health
+## PHICCE: A Framework Assessing SDG 13 Progress in the Context of Public Health
 
 *Vidhi Bhatt, Teagan Caulfield, Jas Dhaliwal, Kothai Gunaratnam, Sasha Sharma*
 
@@ -19,7 +19,7 @@ Each nation is unique in demographics and socioeconomic status, thus creating un
 <img src="Figure 1.png" width="300" style="border: 1px solid darkgrey">
  </p>
 
-*Figure 1: The Public Health in Climate Change Evaluation (PHICCE) framework. Three main climate change factors impact public health: vector-borne disease, air pollution, and food insecurity. Each of these factors can be assessed in the context of achieving SDG 13 through the framework by understanding: (1) the programs that have been implemented; (2) evaluation of the effectiveness of such programs; (3) and understanding their future plans. This content in the PHICCE framework is adopted and based on previous conceptual frameworks (Glasgow, Vogt and Boles, 1999; Canadian Public Health Association, 2017; United Nations, 2022; World Health Organization, 2022; World Health Organization, Regional Office For Europe, n.d.).*
+*Figure 1: The Public Health in Climate Change Evaluation (PHICCE) framework. Three main climate change factors impact public health: vector-borne disease, air pollution, and food insecurity. Each of these factors can be assessed in the context of achieving SDG 13 through the framework by understanding: (1) the programs that have been implemented; (2) evaluation of the effectiveness of such programs; (3) and understanding their future plans. This content in the PHICCE framework is adopted and based on previous conceptual frameworks (Glasgow, Vogt and Boles, 1999; Canadian Public Health Association, 2017; United Nations, 2022; World Health Organization, 2022; World Health Organization, Regional Office For Europe, 2022).*
 
 ## Implementing our Framework – India and Canada’s Air Pollution Policy 
 
