@@ -1,5 +1,5 @@
-# Impacts of Climate Change on Public Health
-## A current framework assessing Canada and India’s current progress in SDG 13 in the context of public health
+# A Novel Method to Evaluate Climate Policy
+## PHICCE: a framework assessing SDG 13 progress in the context of public health
 
 *Vidhi Bhatt, Teagan Caulfield, Jas Dhaliwal, Kothai Gunaratnam, Sasha Sharma*
 
@@ -48,4 +48,4 @@ United Nations, 2022. — SDG Indicators. [online] Available at: <https://unstat
 
 World Health Organization, 2022. Climate change. [online] Available at: <https://www.who.int/health-topics/climate-change> [Accessed 15 November 2022].
 
-World Health Organization, Regional Office For Europe, n.d. Policy Brief: Health and Climate Actoin. [online] Available at: <https://www.euro.who.int/__data/assets/pdf_file/0009/397791/SDG-13-policy-brief.pdf> [Accessed 16 November 2022].
+World Health Organization, Regional Office For Europe, n.d. Policy Brief: Health and Climate Action. [online] Available at: <https://www.euro.who.int/__data/assets/pdf_file/0009/397791/SDG-13-policy-brief.pdf> [Accessed 16 November 2022].
