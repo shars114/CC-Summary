@@ -16,7 +16,7 @@ In 2015, the United Nations set out 17 Sustainable Development Goals (SDGs) to p
 Each nation is unique in demographics and socioeconomic status, thus creating unequal public health burdens and differing national priorities. A conceptual framework that directly analyzes policies has been developed to evaluate and compare nations’ responses to climate threats. Our Public Health in Climate Change Evaluation (PHICCE) framework was created using premises from various groups, including the Canadian Public Health Association and the World Health Organization (Figure 1) (Canadian Public Health Association, 2017; World Health Organization, 2022). The PHICCE framework highlights that program, evaluation, and future plans are three dimensions that can be used to assess a country’s progress toward SDG 13 from a public health lens (Figure 1). 
 
 <p align="center">
-<img src="Figure 1 PHICCE.png" width="300" style="border: 1px solid darkgrey">
+<img src="Figure 1.png" width="300" style="border: 1px solid darkgrey">
  </p>
 
 *Figure 1: The Public Health in Climate Change Evaluation (PHICCE) framework. Three main climate change factors impact public health: vector-borne disease, air pollution, and food insecurity. Each of these factors can be assessed in the context of achieving SDG 13 through the framework by understanding: (1) the programs that have been implemented; (2) evaluation of the effectiveness of such programs; (3) and understanding their future plans. This content in the PHICCE framework is adopted and based on previous conceptual frameworks (Glasgow, Vogt and Boles, 1999; Canadian Public Health Association, 2017; United Nations, 2022; World Health Organization, 2022; World Health Organization, Regional Office For Europe, n.d.).*
